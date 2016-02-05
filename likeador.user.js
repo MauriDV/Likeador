@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Likear
 // @namespace Violentmonkey Scripts
+// @author       @Mauri934
 // @grant none
 // ==/UserScript==
 
